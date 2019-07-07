@@ -84,3 +84,16 @@ p, h1 ,h2 ,h3, h4, h5, h6 {
     padding: 5px 5px 5px 5px;
     font-size: 20px;
 }
+
+.carousel .carousel-inner
+{
+    height: 81vh;
+}
+
+/* .carousel .carousel-inner .carousel-caption h4
+{
+    font-weight: 700;
+    padding-bottom: 120px;
+    font-size: 28px;
+    color: red;
+} */
