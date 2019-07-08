@@ -97,7 +97,6 @@ body
 .provides
 {
     padding-top: 40px;
-    padding-bottom: 40px;
     position: relative;
     top: -120px;
 }
@@ -169,6 +168,7 @@ body
     font-size: 16px;
     color: #8d97ad;
     padding-bottom: 8px;
+    padding-right: 10px;
     margin-bottom: 0px;
 }
 
@@ -195,10 +195,25 @@ body
 
 .about .links .link-btn
 {
-    
+    padding-top: 40px;
 }
 
 .about .links .link-btn a
 {
-    
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 16px;
+    border: 1px solid #188ef4;
+    background-color: #188ef4;
+    padding: 13px 32px;
+    border-radius: 7px;
+}
+
+.about .image img
+{
+    margin-top: 20px;
+    height: 358px;
+    width: 540px;
+    box-shadow: 0 0 0 0 silver;
+    border-radius: 10px;
 }
