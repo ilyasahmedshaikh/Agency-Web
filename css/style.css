@@ -275,3 +275,57 @@ body
     font-size: 16px;
     color: #232323;
 }
+
+.team
+{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: white;
+}
+
+.team .text
+{
+    text-align: center;
+}
+
+.team .text h2
+{
+    margin-bottom: 0px;
+    font-size: 29px;
+    padding-bottom: 20px;
+    color: #232323;
+}
+
+.team .team-box img
+{
+    height: 260px;
+    width: 255px;
+    border-radius: 4px;
+    margin-bottom: 50px;  
+}
+
+.team .team-box h5
+{
+    font-size: 20px;
+    padding-left: 5px;
+    color: #232323;
+    margin-bottom: 0px;
+}
+
+.team .team-box h6
+{
+    font-size: 16px;
+    padding-left: 5px;
+    padding-top: 4px;
+    font-weight: 300;
+    color: #4d504d;
+    margin-bottom: 0px;
+}
+
+.team .team-box p
+{
+    padding-left: 5px;
+    padding-top: 22px;
+    font-size: 17px;
+    color: #8d97ad;
+}
